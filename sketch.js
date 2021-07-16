@@ -3,9 +3,9 @@ var button,button2,food,MilkImg,milk;
 var foodStock,foodS,database,feedTime,lastFed;
 var namePet;
 function preload(){
-  sadDog=loadImage("Images/Dog.png");
-  happyDog=loadImage("Images/happy dog.png");
-  MilkImg=loadImage("Images/Milk.png");
+  sadDog=loadImage("Dog.png");
+  happyDog=loadImage("happy dog.png");
+  MilkImg=loadImage("Milk.png");
 }
 
 function setup() {
